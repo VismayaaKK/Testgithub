@@ -5,3 +5,5 @@ int main() {
     (a>10)?printf("%d is greater than 10",a):
     printf("%d is less than 10",a);
 }
+
+123456

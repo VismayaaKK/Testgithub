@@ -1,0 +1,36 @@
+#include <stdio.h>
+int main()
+{
+    int i;
+    printf("even number between 1 to 100\n");
+    
+     i=2;
+    
+        while(i<=100)
+    {
+        printf("%d\n",i);
+        i=i+2;
+        
+    }
+    return 0;
+    
+    
+}
+#include <stdio.h>
+int main()
+{
+    int i;
+    printf("odd number between 1 to 100\n");
+    
+     i=1;
+    
+        while(i<=100)
+    {
+        printf("%d\n",i);
+        i=i+2;
+        
+    }
+    return 0;
+    
+    
+}
