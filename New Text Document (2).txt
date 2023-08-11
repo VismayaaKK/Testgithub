@@ -1,5 +1,5 @@
 #include ssdddd
-
+1234444
 int main() {
     int a,b,c;
     printf("enter three number:");
