@@ -1,5 +1,5 @@
-#include ssdddd
-1234444
+#include 
+
 int main() {
     int a,b,c;
     printf("enter three number:");
@@ -17,4 +17,4 @@ int main() {
         printf("%d is greatest",c);
     }
     return 0;
-}s
+}
